@@ -2,6 +2,9 @@
 
 ## Project Overview
 
+![Urban Routes Interface](assets/screenshots/urban-routes-interface.jpg)
+*Main interface of Urban Routes showing map view and address input fields.*
+
 Urban Routes is a ride-hailing application similar to Uber or DiDi.
 This project represents my first hands-on experience in Quality Assurance,
 focused on functional testing and bug reporting.
